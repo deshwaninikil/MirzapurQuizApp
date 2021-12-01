@@ -11,7 +11,7 @@ var highScores=[
 
   {
   name:"Kishan",
-  score:4
+  score:3
   }
 ]   
 
